@@ -1,2 +1,3 @@
 # GoogleAMP
 LearnAMP
+这个项目会放一些我在工作中使用AMP碰到的坑，希望整理出一套完整的AMP使用指南
